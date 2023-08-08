@@ -39,6 +39,10 @@ def getLinks(strPage, strLink):
 
     return strPReturn
 
+# tHIS IS THE IMPORTANT PART
+
+
+
 
 def srcChange(strPage, strLink):
     # first run through
